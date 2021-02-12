@@ -1,0 +1,6 @@
+Django==2.2.10
+psycopg2-binary==2.8.6
+djangorestframework
+django-cors-headers
+django-crispy-forms
+requests
